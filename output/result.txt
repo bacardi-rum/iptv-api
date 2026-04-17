@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-17 06:45:45,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
+2026-04-17 19:01:24,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
@@ -411,7 +411,6 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 偃师新闻,http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8
 
 ☘️河北频道,#genre#
-邯郸新闻,https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
 河北都市,https://radio.pull.hebtv.com/live/hebnczx.m3u8
 
 ☘️新疆频道,#genre#
